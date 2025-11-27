@@ -17,3 +17,10 @@ export function exportCsv(data) {
 
   URL.revokeObjectURL(url);
 }
+
+// jkhf 
+// getComputedStylefh
+
+// GamepadHapticActuatorjhg
+// jg
+// jsxgj
